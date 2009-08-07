@@ -29,7 +29,7 @@
 
 $_indent = "   ";
 $_command_key = "tryglspjw2u";
-$_line_end = "\r\n";
+$_line_end = "\n";
 
 @predefined_ucode = (
    "nop",

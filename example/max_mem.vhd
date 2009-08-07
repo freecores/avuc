@@ -11,7 +11,7 @@ use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
 
 library work;
-use work.usm_pkg.all;
+use work.avuc_pkg.all;
 
 
 entity max_mem is
